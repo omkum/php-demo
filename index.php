@@ -6,6 +6,7 @@
     <title>Sample PHP Web Page</title>
   </head>
   <body>
+  <h1> welcome </h1>
     
     <form action="process.php" method="post">
       First Name: <input type="text" name="FName"/><br/>
